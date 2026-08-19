@@ -28,14 +28,6 @@ algorithms to cybersecurity and embedded systems.
 **Tools**
 - VS Code
 
-## 📌 Featured Project
-
-### SentinelNet
-A decentralized LoRa-based communication system designed
-for situations where cellular/internet connectivity is unavailable.
-
-📡 GPS • SOS Alerts • Sensor Data • Images • Audio
-
 ## 📫 Let's Connect
 
 - LinkedIn: www.linkedin.com/in/aishikidas
