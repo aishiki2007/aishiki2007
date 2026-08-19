@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Aishiki 👋
 
-<!--
-**aishiki2007/aishiki2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | AI • Cybersecurity • Cloud • IoT
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building practical
+tech solutions and understanding how systems work — from AI
+algorithms to cybersecurity and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+
+- 🔐 Exploring Cybersecurity & Cloud Security
+- 🧠 Learning AI problem solving, search algorithms & CSP
+- 💻 Building and experimenting with Python & Java projects
+
+**Languages**
+- Python
+- Java
+  
+**Interests**
+- Artificial Intelligence
+- Cybersecurity
+- Cloud Computing
+- IoT & Embedded Systems
+
+**Hardware**
+- LoRa
+
+**Tools**
+- VS Code
+
+## 📌 Featured Project
+
+### SentinelNet
+A decentralized LoRa-based communication system designed
+for situations where cellular/internet connectivity is unavailable.
+
+📡 GPS • SOS Alerts • Sensor Data • Images • Audio
+
+## 📫 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/aishikidas
+- Email: das.aishiki2007@gmail.com
+
+---
